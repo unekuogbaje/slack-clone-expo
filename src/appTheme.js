@@ -29,7 +29,7 @@ export const LightTheme = {
     dimmedText: '#979A9A',
     boldText: 'black',
     linkText: '#1E75BE',
-    shadow: '#000',
+    shadow: '#000000',
     border: '#D3D3D3',
     notification: 'rgb(255, 69, 58)',
   },
